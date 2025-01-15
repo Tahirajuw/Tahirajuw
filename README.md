@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wasimuhammad519@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a third-year computer science student, and I can code in multiple programming languages—sometimes even while listening to music!
 
 <!---
 Tahirajuw/Tahirajuw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
