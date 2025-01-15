@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tahirajuw
+- 👋 Hi, I’m Tahira Waseem
 - 👀 I’m interested in Web Development, Artificial Inelligence & Search Engines
 - 🌱 I’m currently learning Web Develoment and Database
 - 💞️ I’m looking to collaborate on innovative tech projects, open-source software, or research in AI and machine learning!
